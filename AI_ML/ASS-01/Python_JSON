@@ -1,0 +1,38 @@
+JSON:
+------
+JSON is javascript object notation 
+json files are using for store and transfort data between client and server 
+
+json is having two formats 
+
+1. Array 
+2. Object 
+
+Object : collection of key:value pairs 
+----------------------------------------------
+
+{
+    "emp_name": "srini",
+    "emp_age: 34,
+    "emp_sal":56000
+}
+
+Array : collection of values (int,float,object,array,bool..)
+
+[
+
+{
+    "emp_name": "srini",
+    "emp_age: 34,
+    "emp_sal":56000
+},
+{
+    "emp_name": "siva",
+    "emp_age: 32,
+    "emp_sal":76000
+}
+
+]
+
+dict -> json  ( dumps() )
+json-> dict   ( loads() )
