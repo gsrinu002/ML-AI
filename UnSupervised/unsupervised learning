@@ -1,0 +1,32 @@
+unsupervised learning 
+------------------------ 
+
+in this kind of learning technique no superviser is available. 
+
+in this models no labeled data is providing to the machine. 
+
+It tries to learn the patterns and structure form the inputs with out having any outputs. 
+
+key points 
+--------------
+1. Discover hidden pattrens 
+2. group similar data points (clustring)
+3. reduce dimentationality 
+4. find associations between the features 
+
+Clustring 
+--------------
+ cusomer segmentation 
+ image recognition 
+ credit card fraud  seggregation 
+ cancer detection 
+ color pallets 
+ object detection 
+ divide shapes of the data 
+ voters segmentation 
+
+K-Means Clustring Model : 
+
+
+
+
